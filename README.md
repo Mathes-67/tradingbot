@@ -10,12 +10,3 @@ Execution Time : 06/03/2022 23:06:16
 ######################################################                                                                                                                                                 
 Je n'ai rien envie de faire. Il suffit d'attendre ;)                                                                                                                                                   
 BTC:0|USDT:0  
-
-
-
-Pour l'installer, sur shell hiveos, dans le répertoire video-lfdm
-rm cross_ema_live.py.  (pour supprimer l'ancien)
-wget https://github.com/Mathes-67/tradingbot/blob/main/cross_ema_live.py
-
-Pensez à remettre les API
-
