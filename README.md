@@ -10,3 +10,8 @@ Execution Time : 06/03/2022 23:06:16
 ######################################################                                                                                                                                                 
 Je n'ai rien envie de faire. Il suffit d'attendre ;)                                                                                                                                                   
 BTC:0|USDT:0  
+
+Source vers le github de Cryptorobot
+https://github.com/CryptoRobotFr/video-lfdm
+
+
